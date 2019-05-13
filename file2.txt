@@ -1,1 +1,2 @@
 second fileAfter editing in the branch
+now editing in master to cause the conflict
